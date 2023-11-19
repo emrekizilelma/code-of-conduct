@@ -9,7 +9,7 @@ def fun_1(commands):  # fun_1 can be reading as a "Function 1". Again snake_case
     return True       # We have to be careful when we are coding because coding is like art. It's have to be beatiful. 
                       # Also it's increasing to readability. Which is really important for community projects.
 
-fun_1()                # Classic calling any function is be like.
+fun_1()               # Classic calling any function is be like.
 
 class Person:         # Class name is must be starting with big letter like "Person" or "Example". Why? Why not? Class is really specific things so thats which makes to sense using it.
   
